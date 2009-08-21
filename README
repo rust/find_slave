@@ -1,0 +1,29 @@
+
+= find_slave
+
+
+== Description
+
+
+== Installation
+
+=== Archive Installation
+
+  rake install
+
+=== Gem Installation
+
+  gem install find_slave
+
+
+== Features/Problems
+
+
+== Synopsis
+
+
+== Copyright
+
+Author::    Shin-ichiro OGAWA <rust.stnard@gmail.com>
+Copyright:: Copyright (c) 2009 Shin-ichiro OGAWA
+License::   MIT-License
